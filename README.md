@@ -7,6 +7,8 @@ Hey, everyone! These bookmarklets are meant to be used in combo with [Flamebyrd�
 3. Run the “Clean Up Deleted Works” bookmarklet. This will remove works that were deleted, which causes Flamebyrd’s updated bookmarklet to crash when used with One Page AO3 History.
 4. Go to Flamebyrd’s [AO3 Works List CSV Bookmarklets](https://random.fangirling.net/scripts/ao3_works_stats) and run whichever one you want.
 
+[Video walkthrough on TikTok](https://www.tiktok.com/@itscryscain/video/7180075841609633030)
+
 # Caveats:
 
 * I have a relatively paltry history, with only 38 pages. I have not tried this on multi-hundred page histories. Let me know on TikTok or via email at crys at cryscain.com if there are any bugs–though I will warn you I’m extremely slow at responding right now because of life.
